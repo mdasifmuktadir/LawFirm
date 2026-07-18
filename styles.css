@@ -54,7 +54,7 @@ h1{ font-size:clamp(2.6rem,5vw,4.4rem); font-weight:600; }
 h2{ font-size:clamp(1.9rem,3.4vw,2.9rem); }
 h3{ font-size:1.4rem; }
 p{ margin:0 0 1em; color:var(--ink-soft); }
-.container{ width:100%; max-width:1180px; margin:0 auto; padding:0 24px; }
+.container{ width:100%; max-width:80vw; margin:0 auto; padding:0 0px; }
 
 /* ---------- utility text ---------- */
 .eyebrow{
